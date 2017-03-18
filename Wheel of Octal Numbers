@@ -10,7 +10,7 @@ use(crayon)&modify(wheel)
 
 if user do(trigger)
 and trigger(force) > 10N
-return sound=''true''
+return (sound=''true'')
 sound.src.=''https://abd123.com/sound/pupupupupu.mp3''
 stop.time=30s
 
