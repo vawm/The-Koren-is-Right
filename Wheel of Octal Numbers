@@ -6,8 +6,19 @@ poweron=''true''
 -github trigger c=10-2
 Result: 5, 12, 17, 24, 31, 36, 43, 50, 55, 62, 67, 74, 101, 106, 113, 120, 125, 132, 137, 144
 poweron=''false''
+use(crayon)&modify(wheel)
 
 if user do(trigger)
 and trigger(force) > 10N
 return sound=''true''
 sound.src.=''https://abd123.com/sound/pupupupupu.mp3''
+stop.time=30s
+
+after action=stop.time
+if number=even
+return (prize='skxawng treasure')
+if number=odd
+return (prize='Meeting with Na'vi')
+or
+if number='144'
+return (prize='Toruk Flight to Tree Of Souls')
