@@ -1,0 +1,13 @@
+Decimal Numbers are: 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100
+> conversion.sudo
+$txt['d_haxx']&computer=[throw]
+name= calculator.app
+poweron=''true''
+-github trigger c=10-2
+Result: 5, 12, 17, 24, 31, 36, 43, 50, 55, 62, 67, 74, 101, 106, 113, 120, 125, 132, 137, 144
+poweron=''false''
+
+if user do(trigger)
+and trigger(force) > 10N
+return sound=''true''
+sound.src.=''https://abd123.com/sound/pupupupupu.mp3''
