@@ -1,0 +1,24 @@
+src img=''http://i.onionstatic.com/avclub/4358/43/16x9/960.jpg''
+&username(Vawmataw;Tìtstewan;TireaAean;Prrkxentrrnoob;Toast)
+&hostname=''PawlFromrr''
+
+type=''greeting''
+$txt[''Zola'u nìprrte' ne snatìpawm tìlenä alu The Koren is Right! I'll give you a context. Give me a sentence. If you guess it correctly, you'll be given a...'']
+[executefile=mo'at.voice]
+src img=''http://www.blogcdn.com/www.autoblog.com/media/2013/04/ferrari-spyder-628.jpg''
+$txt[''Mersetes Penzì Pandora offers you a brand new Pa'li of quality AAA. 1 pa'li power, integrated sound flashers, raised in the sacred and legendary plains of the 5th Toruk Makto in the Western Sea.'']
+[/executefile]
+$txt[''Alright, so here is the first question.'']
+generate.php; type=question
+$txt[''The 8 badgers mushroom twice and exclaim: 'Oh, a snake'!'']
+if $txt[''Vola pätsyrr melo 'ul nìtxan ulte leym san Ìì, lu ioang a txurtelna!'']
+then win=true
+Result: vawmataw.$txt[''We don't have the words for that.'']
+tireaean.$txt[''I agree'']
+tìtstewan.$txt[''what the derp ma Karyu'']
+prrkxentrrnoob.$txt[''Vola pätsyrr spxam melo ulte plltxe san O, sneyk!'']
+toast.$txt[''OE LU TOSTÌ'']
+johncena.$txt[''Vola ioang'']
+
+pawlfromrr.$txt[''ULTE YORA'TU LU JOHN CENAAAAAAAAAAAAA'']
+video src=''https://www.youtube.com/watch?v=9EPL_4HyCFQ''
